@@ -25,7 +25,7 @@ The execution engine evaluates the state machine architecture through two distin
 Ensure you have Python 3.x installed on your local workstation. Clone this repository using the following terminal commands:
 
 ```bash
-git clone [https://github.com/anandakhoritac-hub/Modeling-Narrative-Decisions-and-Trajectory-Optimization-Script-5CMps.git](https://github.com/anandakhoritac-hub/Modeling-Narrative-Decisions-and-Trajectory-Optimization-Script-5CMps.git)
+git clone [https://github.com/Chatima-Anandakhorita/Modeling-Narrative-Decisions-and-Trajectory-Optimization-Script-5CMps.git](https://github.com/anandakhoritac-hub/Modeling-Narrative-Decisions-and-Trajectory-Optimization-Script-5CMps.git)
 cd Modeling-Narrative-Decisions-and-Trajectory-Optimization-Script-5CMps
 
 ```
